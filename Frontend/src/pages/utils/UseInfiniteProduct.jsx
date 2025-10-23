@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import axios from '../../api/axiosconfig';
-import { loadLazyproduct } from "../../store/reducers/productSlice";
+import { loadLazyproduct } from "../../store/reducers/ProductSlice";
 
 import { useDispatch, useSelector } from 'react-redux';
 const UseInfiniteProduct = () => {

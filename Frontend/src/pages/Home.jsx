@@ -64,11 +64,11 @@ const Home = () => {
             Shop Now
           </button>
         </div>
-        <div className="md:w-1/2 hidden md:flex justify-center md:justify-end mt-6 md:mt-0 relative">
+        <div className="md:w-1/2 hidden md:flex justify-center md:justify-end mt-6 md:mt-0  ">
           <img
             src="https://imgs.search.brave.com/0EnonShm9NnIKDXNHnnPo1jiaX2QMucWN3g0IxqYAeY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9maWxl/LmFpcXVpY2tkcmF3/LmNvbS9pbWdjb21w/cmVzc2VkL2ltZy9j/b21wcmVzc2VkX2Y0/ODE0MDQzYTc2YjU1/MTE5MWViMmIzOGJk/NjczN2VmLndlYnA"
             alt="Hero Image"
-            className="w-64 md:w-80 md:h-[55vh] object-cover"
+            className="w-64 md:w-80 md:h-[55vh] object-cover "
           />
         </div>
       </div>

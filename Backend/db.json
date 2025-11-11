@@ -556,6 +556,49 @@
       "Password": "",
       "isAdmin": false,
       "cart": []
+    },
+    {
+      "id": "GsvwJJ_QJh65i4EiZ7QXO",
+      "userName": "amit kumar",
+      "image": "https://images.unsplash.com/photo-1760158490392-b97ccf0c9e14?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNoYXJhY3RlciUyMGNhcnRvb258ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "Email": "amitkumar123@gmail.com",
+      "Password": "1111",
+      "isAdmin": false,
+      "cart": [
+        {
+          "product": {
+            "id": "3",
+            "title": "Sony WH-1000XM5 Headphones",
+            "description": "Industry-leading noise canceling wireless headphones with 30-hour battery life and premium sound quality.",
+            "price": 399.99,
+            "category": "Electronics",
+            "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=600&fit=crop"
+          },
+          "quantity": 2
+        },
+        {
+          "product": {
+            "id": "4",
+            "title": "Samsung 65\" QLED 4K TV",
+            "description": "Quantum Dot technology delivers brilliant colors and sharp contrast with smart TV features and gaming mode.",
+            "price": 1499.99,
+            "category": "Electronics",
+            "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=800&h=600&fit=crop"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "2",
+            "title": "MacBook Air M3",
+            "description": "Ultra-thin laptop powered by Apple M3 chip with 18-hour battery life and stunning Retina display.",
+            "price": 1299.99,
+            "category": "Electronics",
+            "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800&h=600&fit=crop"
+          },
+          "quantity": 1
+        }
+      ]
     }
   ]
 }

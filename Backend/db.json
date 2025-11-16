@@ -1,0 +1,639 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "iPhone 15 Pro Max",
+      "description": "Latest flagship smartphone with titanium design, A17 Pro chip, and advanced camera system with 5x telephoto zoom.",
+      "price": "1199.99",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "2",
+      "title": "MacBook Air M3",
+      "description": "Ultra-thin laptop powered by Apple M3 chip with 18-hour battery life and stunning Retina display.",
+      "price": 1299.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "3",
+      "title": "Sony WH-1000XM5 Headphones",
+      "description": "Industry-leading noise canceling wireless headphones with 30-hour battery life and premium sound quality.",
+      "price": 399.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "4",
+      "title": "Samsung 65\" QLED 4K TV",
+      "description": "Quantum Dot technology delivers brilliant colors and sharp contrast with smart TV features and gaming mode.",
+      "price": 1499.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "5",
+      "title": "Nintendo Switch OLED",
+      "description": "Portable gaming console with vibrant OLED screen, enhanced audio, and versatile play modes.",
+      "price": 349.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "6",
+      "title": "Canon EOS R6 Mark II",
+      "description": "Professional mirrorless camera with 24.2MP sensor, 4K video recording, and advanced autofocus system.",
+      "price": 2499.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "7",
+      "title": "Levi's 501 Original Jeans",
+      "description": "Classic straight-leg jeans made from premium denim with authentic vintage styling and perfect fit.",
+      "price": 89.99,
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "8",
+      "title": "Nike Air Max 270",
+      "description": "Lifestyle sneakers featuring Max Air unit in the heel for all-day comfort and modern street style.",
+      "price": 149.99,
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "10",
+      "title": "Adidas Ultraboost 22",
+      "description": "High-performance running shoes with responsive Boost midsole and Primeknit upper for ultimate comfort.",
+      "price": 189.99,
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "11",
+      "title": "Ray-Ban Aviator Sunglasses",
+      "description": "Iconic pilot-style sunglasses with crystal lenses and gold-tone metal frame for timeless appeal.",
+      "price": 154.99,
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "12",
+      "title": "Cashmere Wool Scarf",
+      "description": "Luxuriously soft cashmere blend scarf in classic patterns, perfect for adding elegance to any outfit.",
+      "price": 79.99,
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "13",
+      "title": "IKEA Malm Bed Frame",
+      "description": "Modern and minimalist bed frame with clean lines and sturdy construction, available in multiple sizes.",
+      "price": 199.99,
+      "category": "Furniture",
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "15",
+      "title": "West Elm Mid-Century Sofa",
+      "description": "Stylish 3-seater sofa with walnut legs and premium upholstery, perfect for modern living spaces.",
+      "price": 1299.99,
+      "category": "Furniture",
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "16",
+      "title": "Dining Table Set",
+      "description": "Solid wood dining table with 6 matching chairs, featuring contemporary design and durable finish.",
+      "price": 899.99,
+      "category": "Furniture",
+      "image": "https://images.unsplash.com/photo-1449247709967-d4461a6a6103?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "17",
+      "title": "Bookshelf Storage Unit",
+      "description": "5-tier wooden bookshelf with adjustable shelves, ideal for organizing books and decorative items.",
+      "price": 159.99,
+      "category": "Furniture",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "18",
+      "title": "Coffee Table with Storage",
+      "description": "Modern glass-top coffee table with hidden storage compartment and sleek metal legs.",
+      "price": 349.99,
+      "category": "Furniture",
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "19",
+      "title": "Organic Green Tea",
+      "description": "Premium organic green tea leaves sourced from high-altitude gardens, rich in antioxidants and flavor.",
+      "price": 24.99,
+      "category": "Food & Beverages",
+      "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "20",
+      "title": "Artisan Dark Chocolate",
+      "description": "Single-origin 70% dark chocolate crafted by master chocolatiers with notes of vanilla and caramel.",
+      "price": 12.99,
+      "category": "Food & Beverages",
+      "image": "https://images.unsplash.com/photo-1511381939415-e44015466834?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "21",
+      "title": "Cold Brew Coffee Concentrate",
+      "description": "Smooth and bold cold brew concentrate made from premium Arabica beans, perfect for iced coffee lovers.",
+      "price": 18.99,
+      "category": "Food & Beverages",
+      "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "22",
+      "title": "Himalayan Pink Salt",
+      "description": "Pure and unrefined pink salt crystals from ancient sea beds, perfect for cooking and seasoning.",
+      "price": 15.99,
+      "category": "Food & Beverages",
+      "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "23",
+      "title": "Organic Honey",
+      "description": "Raw wildflower honey harvested from local beekeepers, unprocessed and full of natural enzymes.",
+      "price": 22.99,
+      "category": "Food & Beverages",
+      "image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "24",
+      "title": "Gourmet Pasta Collection",
+      "description": "Handcrafted Italian pasta variety pack including penne, fusilli, and linguine made from durum wheat.",
+      "price": 29.99,
+      "category": "Food & Beverages",
+      "image": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "25",
+      "title": "Vitamin D3 Supplements",
+      "description": "High-potency vitamin D3 capsules for bone health and immune system support, 90-day supply.",
+      "price": 19.99,
+      "category": "Health & Beauty",
+      "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "26",
+      "title": "Retinol Anti-Aging Serum",
+      "description": "Advanced retinol formula that reduces fine lines and improves skin texture for a youthful glow.",
+      "price": 49.99,
+      "category": "Health & Beauty",
+      "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "27",
+      "title": "Yoga Mat Premium",
+      "description": "Non-slip yoga mat with superior grip and cushioning, made from eco-friendly materials.",
+      "price": 79.99,
+      "category": "Health & Beauty",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "28",
+      "title": "Essential Oil Diffuser",
+      "description": "Ultrasonic aromatherapy diffuser with LED lights and timer settings for relaxation and wellness.",
+      "price": 39.99,
+      "category": "Health & Beauty",
+      "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "29",
+      "title": "Protein Powder Vanilla",
+      "description": "Whey protein isolate with 25g protein per serving, perfect for post-workout recovery and muscle building.",
+      "price": 54.99,
+      "category": "Health & Beauty",
+      "image": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "30",
+      "title": "Facial Cleansing Brush",
+      "description": "Sonic facial cleansing device with multiple brush heads for deep pore cleansing and exfoliation.",
+      "price": 89.99,
+      "category": "Health & Beauty",
+      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "31",
+      "title": "Basketball Official Size",
+      "description": "Official size and weight basketball with superior grip and durability for indoor and outdoor play.",
+      "price": 29.99,
+      "category": "Sports & Outdoors",
+      "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "32",
+      "title": "Camping Tent 4-Person",
+      "description": "Waterproof dome tent with easy setup, spacious interior, and weather-resistant materials for camping adventures.",
+      "price": 199.99,
+      "category": "Sports & Outdoors",
+      "image": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "34",
+      "title": "Fishing Rod Combo",
+      "description": "Complete fishing setup with rod, reel, line, and tackle box for freshwater and saltwater fishing.",
+      "price": 89.99,
+      "category": "Sports & Outdoors",
+      "image": "https://images.unsplash.com/photo-1445112098124-3e76dd67983c?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "35",
+      "title": "Hiking Backpack 40L",
+      "description": "Lightweight hiking backpack with multiple compartments, hydration system, and ergonomic design.",
+      "price": 129.99,
+      "category": "Sports & Outdoors",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "36",
+      "title": "Golf Club Set",
+      "description": "Complete golf club set including driver, irons, wedges, and putter with premium graphite shafts.",
+      "price": 799.99,
+      "category": "Sports & Outdoors",
+      "image": "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "37",
+      "title": "Building Blocks Set",
+      "description": "Creative building blocks set with 500+ pieces for endless construction possibilities and STEM learning.",
+      "price": 49.99,
+      "category": "Toys & Games",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "38",
+      "title": "Remote Control Drone",
+      "description": "HD camera drone with GPS navigation, 20-minute flight time, and beginner-friendly controls.",
+      "price": 299.99,
+      "category": "Toys & Games",
+      "image": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "39",
+      "title": "Board Game Collection",
+      "description": "Classic board game bundle including Monopoly, Scrabble, and Chess for family game nights.",
+      "price": 79.99,
+      "category": "Toys & Games",
+      "image": "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "40",
+      "title": "Action Figure Superhero",
+      "description": "Highly detailed superhero action figure with multiple points of articulation and accessories.",
+      "price": 24.99,
+      "category": "Toys & Games",
+      "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "41",
+      "title": "Puzzle 1000 Pieces",
+      "description": "Challenging jigsaw puzzle featuring beautiful landscape artwork, perfect for relaxation and focus.",
+      "price": 19.99,
+      "category": "Toys & Games",
+      "image": "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "42",
+      "title": "RC Racing Car",
+      "description": "High-speed remote control racing car with rechargeable battery and precision steering control.",
+      "price": 89.99,
+      "category": "Toys & Games",
+      "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "43",
+      "title": "Bestseller Novel Collection",
+      "description": "Set of 5 award-winning novels from contemporary authors, perfect for book lovers and gift giving.",
+      "price": 59.99,
+      "category": "Books & Media",
+      "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "44",
+      "title": "Vinyl Record Player",
+      "description": "Vintage-style turntable with built-in speakers and USB conversion for digitizing your vinyl collection.",
+      "price": 199.99,
+      "category": "Books & Media",
+      "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "46",
+      "title": "Bluetooth Speaker Portable",
+      "description": "Waterproof portable speaker with 360-degree sound, 12-hour battery life, and voice assistant.",
+      "price": 79.99,
+      "category": "Books & Media",
+      "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "47",
+      "title": "Art Supplies Set",
+      "description": "Professional art kit with pencils, paints, brushes, and sketchpad for artists of all skill levels.",
+      "price": 89.99,
+      "category": "Books & Media",
+      "image": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "48",
+      "title": "Digital Photo Frame",
+      "description": "Smart photo frame with WiFi connectivity, cloud storage access, and high-resolution display.",
+      "price": 149.99,
+      "category": "Books & Media",
+      "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "49",
+      "title": "Wireless Charging Pad",
+      "description": "Fast wireless charging station compatible with all Qi-enabled devices, sleek design with LED indicator.",
+      "price": 39.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1636297461709-0812290a9dcc?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fFdpcmVsZXNzJTIwQ2hhcmdpbmclMjBQYWQlMjBwcm9kdWN0fGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600"
+    },
+    {
+      "id": "50",
+      "title": "Smart Watch Fitness",
+      "description": "Advanced fitness tracker with heart rate monitor, GPS, sleep tracking, and 7-day battery life.",
+      "price": 249.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "51",
+      "title": "Leather Wallet Bifold",
+      "description": "Genuine leather bifold wallet with RFID blocking technology and multiple card slots.",
+      "price": 49.99,
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&h=600&fit=crop"
+    },
+    {
+      "id": "9eCc6fCHt_BGbGYRBkkUx",
+      "title": "ggg",
+      "image": "https://images.unsplash.com/photo-1485921325833-c519f76c4927?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHJlY2lwZXxlbnwwfHwwfHx8MA%3D%3D",
+      "price": "3999",
+      "description": "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv",
+      "category": "Clothing"
+    },
+    {
+      "id": "TlZSDRA_lHwb1cQP1UUUC",
+      "title": "ggg",
+      "image": "https://images.unsplash.com/photo-1485921325833-c519f76c4927?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHJlY2lwZXxlbnwwfHwwfHx8MA%3D%3D",
+      "price": "3999",
+      "description": "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv",
+      "category": "Clothing"
+    },
+    {
+      "id": "dT8pqZFRIBRR3eIpBSLuo",
+      "title": "ggg",
+      "image": "https://images.unsplash.com/photo-1485921325833-c519f76c4927?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHJlY2lwZXxlbnwwfHwwfHx8MA%3D%3D",
+      "price": "3999",
+      "description": "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv",
+      "category": "Clothing"
+    }
+  ],
+  "users": [
+    {
+      "id": "R0YvnKYjq3EZXsh3QhQae",
+      "Email": "amitmahaseth@gmail.com",
+      "Password": "12345",
+      "isAdmin": true,
+      "cart": [
+        {
+          "product": {
+            "id": 1,
+            "title": "iPhone 15 Pro Max",
+            "description": "Latest flagship smartphone with titanium design, A17 Pro chip, and advanced camera system with 5x telephoto zoom.",
+            "price": 1199.99,
+            "category": "Electronics",
+            "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=800&h=600&fit=crop"
+          },
+          "quantity": 5
+        },
+        {
+          "product": {
+            "id": 2,
+            "title": "MacBook Air M3",
+            "description": "Ultra-thin laptop powered by Apple M3 chip with 18-hour battery life and stunning Retina display.",
+            "price": 1299.99,
+            "category": "Electronics",
+            "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800&h=600&fit=crop"
+          },
+          "quantity": 2
+        },
+        {
+          "product": {
+            "id": "1",
+            "title": "iPhone 15 Pro Max",
+            "description": "Latest flagship smartphone with titanium design, A17 Pro chip, and advanced camera system with 5x telephoto zoom.",
+            "price": "1199.99",
+            "category": "Electronics",
+            "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=800&h=600&fit=crop"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "2",
+            "title": "MacBook Air M3",
+            "description": "Ultra-thin laptop powered by Apple M3 chip with 18-hour battery life and stunning Retina display.",
+            "price": 1299.99,
+            "category": "Electronics",
+            "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800&h=600&fit=crop"
+          },
+          "quantity": 2
+        },
+        {
+          "product": {
+            "id": "3",
+            "title": "Sony WH-1000XM5 Headphones",
+            "description": "Industry-leading noise canceling wireless headphones with 30-hour battery life and premium sound quality.",
+            "price": 399.99,
+            "category": "Electronics",
+            "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=600&fit=crop"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "TlZSDRA_lHwb1cQP1UUUC",
+            "title": "ggg",
+            "image": "https://images.unsplash.com/photo-1485921325833-c519f76c4927?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHJlY2lwZXxlbnwwfHwwfHx8MA%3D%3D",
+            "price": "3999",
+            "description": "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv",
+            "category": "Clothing"
+          },
+          "quantity": 1
+        }
+      ],
+      "userName": "Amit Mahaseth",
+      "image": "blob:http://localhost:5173/5ae513c6-fcbe-4e67-8233-ff1b87df080a"
+    },
+    {
+      "id": "6uVcvhbrkIDaC_rI5kw65",
+      "userName": "amit Mahaseth",
+      "image": "https://images.unsplash.com/photo-1601315379734-425a469078de?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHJlY2lwZXxlbnwwfHwwfHx8MA%3D%3D",
+      "Email": "amit12@gmail.com",
+      "Password": "2222",
+      "isAdmin": false,
+      "cart": [
+        {
+          "product": {
+            "id": "4",
+            "title": "Samsung 65\" QLED 4K TV",
+            "description": "Quantum Dot technology delivers brilliant colors and sharp contrast with smart TV features and gaming mode.",
+            "price": 1499.99,
+            "category": "Electronics",
+            "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=800&h=600&fit=crop"
+          },
+          "quantity": 5
+        },
+        {
+          "product": {
+            "id": "2",
+            "title": "MacBook Air M3",
+            "description": "Ultra-thin laptop powered by Apple M3 chip with 18-hour battery life and stunning Retina display.",
+            "price": 1299.99,
+            "category": "Electronics",
+            "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800&h=600&fit=crop"
+          },
+          "quantity": 7
+        },
+        {
+          "product": {
+            "id": "7",
+            "title": "Levi's 501 Original Jeans",
+            "description": "Classic straight-leg jeans made from premium denim with authentic vintage styling and perfect fit.",
+            "price": 89.99,
+            "category": "Clothing",
+            "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800&h=600&fit=crop"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "3",
+            "title": "Sony WH-1000XM5 Headphones",
+            "description": "Industry-leading noise canceling wireless headphones with 30-hour battery life and premium sound quality.",
+            "price": 399.99,
+            "category": "Electronics",
+            "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=600&fit=crop"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "15",
+            "title": "West Elm Mid-Century Sofa",
+            "description": "Stylish 3-seater sofa with walnut legs and premium upholstery, perfect for modern living spaces.",
+            "price": 1299.99,
+            "category": "Furniture",
+            "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&h=600&fit=crop"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "40",
+            "title": "Action Figure Superhero",
+            "description": "Highly detailed superhero action figure with multiple points of articulation and accessories.",
+            "price": 24.99,
+            "category": "Toys & Games",
+            "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800&h=600&fit=crop"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "50",
+            "title": "Smart Watch Fitness",
+            "description": "Advanced fitness tracker with heart rate monitor, GPS, sleep tracking, and 7-day battery life.",
+            "price": 249.99,
+            "category": "Electronics",
+            "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=600&fit=crop"
+          },
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "HYffTsYSCwHuQni3U9W8v",
+      "userName": "",
+      "image": "",
+      "Email": "",
+      "Password": "",
+      "isAdmin": false,
+      "cart": []
+    },
+    {
+      "id": "vSGD8idS2AXIPAeshRHfL",
+      "userName": "",
+      "image": "",
+      "Email": "",
+      "Password": "",
+      "isAdmin": false,
+      "cart": []
+    },
+    {
+      "id": "IZjHldP4aaDM9HWNpT1Ff",
+      "userName": "",
+      "image": "",
+      "Email": "",
+      "Password": "",
+      "isAdmin": false,
+      "cart": []
+    },
+    {
+      "id": "GsvwJJ_QJh65i4EiZ7QXO",
+      "userName": "amit kumar",
+      "image": "https://images.unsplash.com/photo-1760158490392-b97ccf0c9e14?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNoYXJhY3RlciUyMGNhcnRvb258ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "Email": "amitkumar123@gmail.com",
+      "Password": "1111",
+      "isAdmin": false,
+      "cart": [
+        {
+          "product": {
+            "id": "3",
+            "title": "Sony WH-1000XM5 Headphones",
+            "description": "Industry-leading noise canceling wireless headphones with 30-hour battery life and premium sound quality.",
+            "price": 399.99,
+            "category": "Electronics",
+            "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=600&fit=crop"
+          },
+          "quantity": 2
+        },
+        {
+          "product": {
+            "id": "4",
+            "title": "Samsung 65\" QLED 4K TV",
+            "description": "Quantum Dot technology delivers brilliant colors and sharp contrast with smart TV features and gaming mode.",
+            "price": 1499.99,
+            "category": "Electronics",
+            "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=800&h=600&fit=crop"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "2",
+            "title": "MacBook Air M3",
+            "description": "Ultra-thin laptop powered by Apple M3 chip with 18-hour battery life and stunning Retina display.",
+            "price": 1299.99,
+            "category": "Electronics",
+            "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800&h=600&fit=crop"
+          },
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}
